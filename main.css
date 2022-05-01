@@ -1,0 +1,54 @@
+body {
+	background: #edededd3;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.style {
+    margin-top: 160px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.navbar-brand {
+    margin-left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: large;
+}
+
+#navbarDropdown {
+
+    
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#nav {
+    background-color: #F5C6CB;
+    color: black;
+    font-size: large;
+    
+}
+
+#lo {
+    width:100px;
+    height: 100px;
+}
+
+#drop {
+
+   
+    color: black;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navv {
+    margin-left: 250px;
+}
+.container{
+    margin-top: 130px;
+}
